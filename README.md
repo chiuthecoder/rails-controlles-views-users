@@ -1,1 +1,7 @@
-# rails-controlles-views-users
+== README
+
+Ruby on Rails
+
+* User Management System
+* Two Models, Two Controllers
+
