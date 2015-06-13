@@ -1,5 +1,3 @@
-== README
-
 Ruby on Rails
 
 * User Management System
